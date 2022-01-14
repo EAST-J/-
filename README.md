@@ -1,2 +1,2 @@
 # machine_vision
-东南大学自动化学院2021大三下学期机器视觉研讨课相关设计
+Homework for 2021 machine vision course
